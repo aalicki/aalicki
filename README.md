@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/lKhZdQ1.png" width="45"/><br>
+  <a href="https://alicki.me"><img src="https://i.imgur.com/lKhZdQ1.png" width="45"/></a><br><br>
   
   <a href="https://twitter.com/adamalicki">
     <img src="https://img.shields.io/twitter/follow/adamalicki??logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow me on Twitter">
@@ -8,11 +8,14 @@
   <a href="https://www.linkedin.com/in/adam-a-9a013517/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="My Linkedin Profile">
   </a>
+  
+  <a href="https://dev.to/adamalicki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adamalicki" height="30" width="40" /></a>
+
 </div>
 
 ---
 
-### :technologist: About Me :
+### :technologist: About Me:
 
 I'm a full-stack web developer specializing in
 * PHP
@@ -26,16 +29,13 @@ I have worked with many other languages such as Node.js, Python, C#, and various
 
 ---
 
-Tools and Langauges :
+### :desktop_computer: Tools and Langauges:
 
-<div>
+<div style="background:#e1e1e1">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain.svg" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" widt="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>&nbsp;
@@ -70,18 +70,19 @@ Tools and Langauges :
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </div>
 
-<div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aalicki)](https://git.io/streak-stats)
-</div>
-
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalicki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 ---
 
-### :writing_hand: Recent Blog Articles :
+### :writing_hand: Recent Blog Articles:
 
 #### Leveraging ChatGPT to be more efficient!
 
 * https://alicki.me/leveraging-chatgpt-to-be-more-efficient/
+
+
+
+--- 
+
+<h3 align="center">My Trophies</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalicki" alt="aalicki" /></a> </p>
+
