@@ -25,7 +25,7 @@ I'm a full-stack web developer specializing in
 * Vue.js
 * MySQL
 
-That said, I have a wide-array of expeirences with many technologies, tools, and systems.
+That said, I have a wide-array of expeirences with many technologies, tools, and systems. Feel free to <a href="https://alicki.me">visit my digital portfolio & blog</a>
 
 ---
 
@@ -91,10 +91,9 @@ That said, I have a wide-array of expeirences with many technologies, tools, and
 * https://alicki.me/leveraging-chatgpt-to-be-more-efficient/
 
 
-
 --- 
 
 <h3 align="center">:trophy: My Trophies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalicki" alt="aalicki" /></a> </p>
-
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aalicki" alt="aalicki" /></a> </p>
