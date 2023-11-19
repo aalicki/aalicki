@@ -18,12 +18,12 @@
 <h3 align="center">:technologist: About Me</h3>
 
 I'm a full-stack web developer specializing in
-* PHP
 * Laravel
 * Livewire
-* Javascript
 * Vue.js
-* MySQL
+* Nuxt.js
+* Tailwind CSS
+* LAMP, TALL, and MERN Stacks.
 
 That said, I have a wide-array of expeirences with many technologies, tools, and systems. Feel free to <a href="https://alicki.me">visit my digital portfolio & blog</a>
 
@@ -86,9 +86,9 @@ That said, I have a wide-array of expeirences with many technologies, tools, and
 
 <h3 align="center">:writing_hand: Recent Blog Articles</h3>
 
-#### Leveraging ChatGPT to be more efficient!
+#### What's Next For Me?
 
-* https://alicki.me/leveraging-chatgpt-to-be-more-efficient/
+* https://alicki.me/what-next
 
 
 --- 
