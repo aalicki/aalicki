@@ -82,6 +82,12 @@ That said, I have a wide-array of expeirences with many technologies, tools, and
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Adam's github stats](https://github-readme-stats.vercel.app/api?username=aalicki&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalicki&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
 ---
 
 <h3 align="center">:writing_hand: Recent Blog Articles</h3>
