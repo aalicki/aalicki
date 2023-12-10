@@ -17,7 +17,7 @@
 
 <h3 align="center">:technologist: About Me</h3>
 
-## I'm a full-stack web developer specializing in
+## I'm a Full Stack Web Developer specializing in
 * Laravel
 * Livewire
 * Vue.js
