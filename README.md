@@ -16,7 +16,7 @@
 
 <h3 align="center">🔨 Latest Project</h3>
 
-<a href="[https://fusioneffect.one](http://fusioneffect.one/)">Fusion Effect: ONE</a>
+<a href="https://fusioneffect.one">Fusion Effect: ONE</a>
 
 <p>
   A Futuristic Persistent Browser Based MMORPG. A throwback to the days of online text-based games!
