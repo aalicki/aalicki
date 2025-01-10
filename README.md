@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <a href="https://alicki.me"><img src="https://i.imgur.com/lKhZdQ1.png" width="45"/></a><br><br>
   
-  <a href="https://twitter.com/adamalicki">
-    <img src="https://img.shields.io/twitter/follow/adamalicki??logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow me on Twitter">
+  <a href="[https://twitter.com/adamalicki](https://bsky.app/profile/alicki.bsky.social)">Follow me on BlueSky
   </a>
   
   <a href="https://www.linkedin.com/in/adam-a-9a013517/">
@@ -17,10 +16,10 @@
 
 <h3 align="center">🔨 Latest Project</h3>
 
-<a href="https://vtiny.link">vTiny Link</a>
+<a href="[https://fusioneffect.one](http://fusioneffect.one/)">Fusion Effect: ONE</a>
 
 <p>
-  A super quick and easy way to create minified and shortened URLs. MVP and PoC currently.
+  A Futuristic Persistent Browser Based MMORPG. A throwback to the days of online text-based games!
 </p>
 
 ---
@@ -35,7 +34,7 @@
 * Tailwind CSS
 * AWS
 
-That said, I have a wide-array of expeirences with many technologies, tools, and systems. Feel free to <a href="https://alicki.me">visit my digital portfolio & blog</a>
+I have a wide-array of expeirences with many technologies, tools, and systems. Feel free to <a href="https://alicki.me">visit my digital portfolio & blog</a>
 
 ---
 
